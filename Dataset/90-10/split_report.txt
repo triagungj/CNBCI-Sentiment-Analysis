@@ -1,0 +1,18 @@
+📊 Split Report
+
+Waktu Eksekusi        : 2025-07-09 14:49:38
+Split Terbaik (Iterasi): 35
+Jaccard Similarity     : 0.367
+
+Data Training          : 8837 rows
+Data Validation        : 982 rows
+
+Distribusi Label (Train):
+  - netral : 3920
+  - negatif : 2319
+  - positif : 2598
+
+Distribusi Label (Validation):
+  - positif : 289
+  - netral : 436
+  - negatif : 257
