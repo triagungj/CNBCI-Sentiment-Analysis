@@ -78,7 +78,8 @@ Penelitian ini memanfaatkan:
 ## 📚 Sitasi
 
 Jika Anda menggunakan proyek atau dataset ini, mohon sitasi:
-_(Menyusul segera)_
+- https://doi.org/10.34740/kaggle/dsv/12604035 untuk dataset;
+- https://doi.org/10.11591/ijeecs.v42.i3.pp774-785 untuk riset.
 
 ---
 

@@ -78,7 +78,8 @@ This research leverages:
 ## 📚 Citation
 
 If you use this project or dataset, please cite:
-_(Hopefully soon)_
+- https://doi.org/10.34740/kaggle/dsv/12604035 for dataset;
+- https://doi.org/10.11591/ijeecs.v42.i3.pp774-785 for the research.
 
 ---
 
